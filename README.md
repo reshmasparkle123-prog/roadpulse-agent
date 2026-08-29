@@ -36,7 +36,7 @@ RoadPulse is an AI-powered civic reporting tool that turns a citizen's photo and
 - Browser Geolocation API for "Use GPS"
 - Anthropic Messages API (`/v1/messages`) for live AI triage, with a fully offline rule-based fallback
 
-## Running it
+## Running it in web
 
 Just open the HTML file in a browser. No server or build process is required — all state (reports, dashboard stats) lives in memory for the session.
 
