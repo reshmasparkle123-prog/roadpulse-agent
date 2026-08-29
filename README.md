@@ -6,7 +6,7 @@ RoadPulse is an AI-powered civic reporting tool that turns a citizen's photo and
 
 ---
 
-## What it does
+## What it does.   
 
 1. **Citizen reporting** — A resident describes a road issue (pothole, waterlogging, broken traffic signal, accident debris, blocked road, etc.), optionally attaches a photo, and provides a location (typed manually or captured via GPS).
 2. **AI triage** — An AI agent classifies the report, determining:
