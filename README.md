@@ -1,8 +1,8 @@
 # RoadPulse — Road Intelligence Agent
 
-**Agentic AI Hackathon '26 — Problem Statement 2**
+**Agentic AI Hackathon '26 — Problem Statement 2
 
-RoadPulse is an AI-powered civic reporting tool that turns a citizen's photo and location into a classified, department-routed, trackable road-issue complaint — and automatically clusters duplicate reports of the same problem.
+RoadPulse is an AI-powered civic reporting tool that turns a citizen's photo and location into a classified, department-routed, trackable road-issue complaint — and automatically clusters duplicate reports of the same problem.   
 
 ---
 
@@ -42,7 +42,7 @@ Just open the HTML file in a browser. No server or build process is required —
 
 > Note: the AI-powered triage requires network access to `api.anthropic.com`. In restricted or offline environments, RoadPulse transparently falls back to local rule-based classification so the demo still works end-to-end.
 
-## File structure
+## File structure(file)
 
 This is a single self-contained HTML file:
 
